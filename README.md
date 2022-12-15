@@ -4,12 +4,12 @@ To practice the GET and RESPONSE use some simple API to catch the data
 
 1.page
 
-![image]()
+![image](https://github.com/Neal-Y/weather-api-test/blob/master/1.png)
 
 2.input the location
 
-![image]()
+![image](https://github.com/Neal-Y/weather-api-test/blob/master/2.png)
 
 3.done!
 
-![image]()
+![image](https://github.com/Neal-Y/weather-api-test/blob/master/3.png)
