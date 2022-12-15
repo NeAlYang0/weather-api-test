@@ -12,4 +12,4 @@ To practice the GET and RESPONSE use some simple API to catch the data
 
 3.done!
 
-![image](https://github.com/Neal-Y/weather-api-test/blob/master/3.png)
+![image](https://github.com/Neal-Y/weather-api-test/blob/master/3..png)
